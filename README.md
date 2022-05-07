@@ -1,6 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'am Clara Huang
-## I am a senior student at The University of Iowa
 
+## 📖 I am a senior student at The University of Iowa
 - 🌱 I’m currently learning Python
 - 🧐 I'm interested in Data Analyst
 - 💻 How to reach me: [Linked](https://www.linkedin.com/feed/)
